@@ -5,3 +5,7 @@ def print_message():
 if __name -- "__main__":
     print_message()
 
+def print_git():
+    message = "from the hell"
+    sys.print("git {}".format(message))
+
