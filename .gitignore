@@ -1,1 +1,6 @@
 #
+.ropeproject
+
+/site
+
+.mypy_cache/
